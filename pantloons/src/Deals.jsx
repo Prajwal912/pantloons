@@ -16,11 +16,39 @@ const Deals = () => {
                 <div className="deals-text p-4">
                     <div className="flex items-center justify-between">
                         <span className="off">15% off</span>
-                        <span>Bargain Buy</span>
+                        <span className="bargain">Bargain Buy</span>
                     </div>
                     <p className="name uppercase">Ajile</p>
                     <p className="details">Navy Check Men Regular Fit Boxer</p>
-                    <small className="product-price">$20 <span className="line-through">$30</span></small>
+                    <small className="product-price font-bold">$20 <span className="line-through text-[#9f9f9f]">$30</span></small>
+                </div>
+            </a>
+         </div>
+         <div className="deals-card">
+            <a href="#">
+                <img src="https://imagescdn.pantaloons.com/img/app/product/8/870572-10461947.jpg?q=75&auto=format&w=250&h=400" alt="" />
+                <div className="deals-text p-4">
+                    <div className="flex items-center justify-between">
+                        <span className="off">15% off</span>
+                        <span className="bargain">Bargain Buy</span>
+                    </div>
+                    <p className="name uppercase">Byford</p>
+                    <p className="details">Navy Check Men Regular Fit Boxer</p>
+                    <small className="product-price font-bold">$20 <span className="line-through text-[#9f9f9f]">$30</span></small>
+                </div>
+            </a>
+         </div>
+         <div className="deals-card">
+            <a href="#">
+                <img src="https://imagescdn.pantaloons.com/img/app/product/8/860477-10159960.jpg?q=75&auto=format&w=250&h=400" alt="" />
+                <div className="deals-text p-4">
+                    <div className="flex items-center justify-between">
+                        <span className="off">15% off</span>
+                        <span className="bargain">Bargain Buy</span>
+                    </div>
+                    <p className="name uppercase">Byford</p>
+                    <p className="details">Navy Check Men Regular Fit Boxer</p>
+                    <small className="product-price font-bold">$20 <span className="line-through text-[#9f9f9f]">$30</span></small>
                 </div>
             </a>
          </div>
@@ -30,53 +58,25 @@ const Deals = () => {
                 <div className="deals-text p-4">
                     <div className="flex items-center justify-between">
                         <span className="off">15% off</span>
-                        <span>Bargain Buy</span>
+                        <span className="bargain">Bargain Buy</span>
                     </div>
                     <p className="name uppercase">Ajile</p>
                     <p className="details">Navy Check Men Regular Fit Boxer</p>
-                    <small className="product-price">$20 <span className="line-through">$30</span></small>
+                    <small className="product-price font-bold">$20 <span className="line-through text-[#9f9f9f]">$30</span></small>
                 </div>
             </a>
          </div>
          <div className="deals-card">
             <a href="#">
-                <img src="https://imagescdn.pantaloons.com/img/app/product/8/870615-10356438.jpg?q=75&auto=format&w=250&h=400" alt="" />
+                <img src="https://imagescdn.pantaloons.com/img/app/product/8/811468-9669852.jpg?q=75&auto=format&w=250&h=400" alt="" />
                 <div className="deals-text p-4">
                     <div className="flex items-center justify-between">
                         <span className="off">15% off</span>
-                        <span>Bargain Buy</span>
+                        <span className="bargain">Bargain Buy</span>
                     </div>
-                    <p className="name uppercase">Ajile</p>
+                    <p className="name uppercase">Dreamz</p>
                     <p className="details">Navy Check Men Regular Fit Boxer</p>
-                    <small className="product-price">$20 <span className="line-through">$30</span></small>
-                </div>
-            </a>
-         </div>
-         <div className="deals-card">
-            <a href="#">
-                <img src="https://imagescdn.pantaloons.com/img/app/product/8/870615-10356438.jpg?q=75&auto=format&w=250&h=400" alt="" />
-                <div className="deals-text p-4">
-                    <div className="flex items-center justify-between">
-                        <span className="off">15% off</span>
-                        <span>Bargain Buy</span>
-                    </div>
-                    <p className="name uppercase">Ajile</p>
-                    <p className="details">Navy Check Men Regular Fit Boxer</p>
-                    <small className="product-price">$20 <span className="line-through">$30</span></small>
-                </div>
-            </a>
-         </div>
-         <div className="deals-card">
-            <a href="#">
-                <img src="https://imagescdn.pantaloons.com/img/app/product/8/870615-10356438.jpg?q=75&auto=format&w=250&h=400" alt="" />
-                <div className="deals-text p-4">
-                    <div className="flex items-center justify-between">
-                        <span className="off">15% off</span>
-                        <span>Bargain Buy</span>
-                    </div>
-                    <p className="name uppercase">Ajile</p>
-                    <p className="details">Navy Check Men Regular Fit Boxer</p>
-                    <small className="product-price">$20 <span className="line-through">$30</span></small>
+                    <small className="product-price font-bold">$20 <span className="line-through text-[#9f9f9f]">$30</span></small>
                 </div>
             </a>
          </div>
