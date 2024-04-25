@@ -1,0 +1,153 @@
+/* navbar */
+
+.navbar {
+  background-color: #00b0b5;
+  padding: 0 100px;
+  color: white;
+}
+
+.head-inp {
+  position: relative;
+  padding: 6px;
+  border: 1px solid white;
+  background-color: #00b0b5;
+  color: #fff;
+  font-size: 0.85em;
+  outline: 0;
+  font-family: proxima-nova;
+  font-weight: 500;
+  border-radius: 10px;
+  width: 240px;
+  height: 40px;
+}
+.head-inp::placeholder {
+  color: #fff;
+}
+
+.head-span {
+  position: relative;
+}
+
+.head-span i {
+  position: absolute;
+  right: 10px;
+  top: 25%;
+  font-size: 18px;
+}
+
+/* footer */
+footer {
+  background: #f1ffff;
+}
+.footer-shop-info {
+  padding: 20px 100px 30px;
+  font-family: proxima-nova;
+  font-size: 12px;
+  border-top: 1px solid #00b0b56e;
+}
+.footer-shop-info h1 {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.footer-shop-info p {
+  padding-top: 10px;
+  line-height: 1.5;
+}
+.footer-shop-info p a {
+  color: #000;
+  font-weight: 500;
+  text-decoration: underline;
+}
+.footer-container {
+  padding: 20px 100px;
+  position: relative;
+  font-size: 12px;
+  background-color: #f1ffff;
+  border-top: 1px solid #00b0b56e;
+}
+/* social container */
+.social {
+  padding: 0 100px;
+}
+.MuiInputBase-input {
+  padding: 16px 12px 15px;
+  border-radius: 10px;
+  border: 1px solid #0003;
+  max-height: 50px;
+  display: flex;
+  -moz-box-align: center;
+  align-items: center;
+  font-size: 12px;
+  width: 300px;
+  outline: 0;
+}
+.join {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 2.33px;
+  font-stretch: normal;
+  font-style: normal;
+  color: #00b0b5;
+  text-transform: uppercase;
+  top: 30%;
+  right: 10px;
+}
+/* deals */
+
+.deals {
+  background: url("/Desktop-Background.png") no-repeat;
+  background-size: cover;
+}
+.deals-view {
+  letter-spacing: 1.4px;
+  color: #00b0b5;
+}
+.deals-card {
+  background-color: #fff;
+  width: auto;
+  height: auto;
+  position: relative;
+  z-index: 0;
+  border-radius: 4px;
+  padding: 6px;
+}
+.off {
+  background-color: #848be1;
+  border-radius: 11px;
+  padding: 3px 6px;
+  text-align: left;
+  font-size: 12px;
+  letter-spacing: 0;
+  color: #fff;
+  opacity: 1;
+}
+.name {
+  letter-spacing: 1.4px;
+  margin-top: 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: bold;
+}
+
+.details {
+  color: #2a2a2a;
+  line-height: 18px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  font-weight: lighter;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.product-price {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1px;
+  color: #2a2a2a;
+}
